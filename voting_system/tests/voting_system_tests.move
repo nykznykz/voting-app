@@ -2,7 +2,7 @@
 #[test_only]
 module voting_system::voting_system_tests;
 // uncomment this line to import the module
-// use voting_system::voting_system;
+use voting_system::voting_system;
 
 const ENotImplemented: u64 = 0;
 
